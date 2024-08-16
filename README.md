@@ -21,8 +21,7 @@ I'm a dedicated Python coder with a strong background in Computer Science. I'm p
 - Machine learning applications in real-world scenarios
 
 ## 📫 How to Reach Me
-- LinkedIn: [LinkedIn Profile](https://linkedin.com)
-- GitHub: [GitHub Profile](https://github.com/dipak1903)
+-  You can reach me through dipakoza1903@outlook.com
 
 ## ⚡ Fun Fact
 - I'm passionate about sports and often lead team activities alongside coding!
