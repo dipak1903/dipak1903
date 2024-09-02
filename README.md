@@ -12,7 +12,7 @@ I'm a dedicated Python coder with a strong background in Computer Science. I'm p
 - Machine Learning and its application in business intelligence
 
 ## 💼 Experience
-- Trainee Python-Django Developer at Way To Web, Ahmedabad
+- Trainee Python-Django Developer at Swan Softweb Solutions, Ahmedabad
 - Web Developer Intern at Code Clause
 - Team Leader for the National Service Scheme at GEC Patan
 
@@ -21,7 +21,7 @@ I'm a dedicated Python coder with a strong background in Computer Science. I'm p
 - Machine learning applications in real-world scenarios
 
 ## 📫 How to Reach Me
--  You can reach me through dipakoza1903@outlook.com
+-  You can reach me through dpoza8125@gmail.com
 
 ## ⚡ Fun Fact
 - I'm passionate about sports and often lead team activities alongside coding!
