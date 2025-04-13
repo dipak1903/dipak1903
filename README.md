@@ -12,6 +12,7 @@ I'm a dedicated Python coder with a strong background in Computer Science. I'm p
 - Machine Learning and its application in business intelligence
 
 ## 💼 Experience
+- Junior Python Developer at Intellial Solutions, Ahmedabad
 - Trainee Python-Django Developer at Swan Softweb Solutions, Ahmedabad
 - Web Developer Intern at Code Clause
 - Team Leader for the National Service Scheme at GEC Patan
